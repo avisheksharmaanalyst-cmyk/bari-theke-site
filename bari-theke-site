@@ -1,1 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bari Theke</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      line-height: 1.6;
+      background: #ffffff;
+      color: #222;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      margin-bottom: 15px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .product {
+      margin-bottom: 25px;
+    }
+    .footer {
+      text-align: center;
+      padding: 30px 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Our Story -->
+  <section>
+    <h1>Our Story</h1>
+    <p>There are evenings when you suddenly miss home.<br>
+    Not just the place — but the familiar flavours, the warmth of the kitchen,
+    the comfort of something made with care.</p>
+
+    <p>Bari Theke was created for every Bengali living away from home —
+    for those who long for not just food, but a feeling.</p>
+
+    <p>We prepare small-batch Bengali sweets and snacks the way they are made at home —
+    with time, patience, and no shortcuts.</p>
+
+    <p>Because food from home should feel like home.</p>
+  </section>
+
+  <!-- What We Make -->
+  <section>
+    <h2>What We Make</h2>
+    <p>We prepare:</p>
+    <ul>
+      <li>Traditional sweets</li>
+      <li>Everyday snacks</li>
+      <li>Festive boxes</li>
+    </ul>
+    <p>Our offerings change with seasons and festivals — just like we do at home.</p>
+  </section>
+
+  <!-- Our Standard -->
+  <section>
+    <h2>Our Standard</h2>
+    <ul>
+      <li>Freshly prepared after receiving each order</li>
+      <li>Handmade in small batches</li>
+      <li>Made using simple, quality ingredients</li>
+      <li>No shortcuts. No preservatives</li>
+    </ul>
+    <p>The way it is made at home.</p>
+  </section>
+
+  <!-- Product Details -->
+  <section>
+    <h2>Product Details</h2>
+
+    <div class="product">
+      <h3>Classic Narkel Naru – ₹399</h3>
+      <ul>
+        <li>Pack size: 250 g (~10–12 narus)</li>
+        <li>Ingredients: Fresh coconut, sugar, milk powder, cardamom</li>
+        <li>Shelf life: Up to 14 days</li>
+      </ul>
+    </div>
+
+    <div class="product">
+      <h3>Gurer Narkel Naru – ₹399</h3>
+      <ul>
+        <li>Pack size: 250 g (~10–12 narus)</li>
+        <li>Ingredients: Fresh coconut, jaggery, milk powder, cardamom</li>
+        <li>Shelf life: Up to 14 days</li>
+      </ul>
+    </div>
+
+    <div class="product">
+      <h3>Festive Box – ₹699 per box</h3>
+      <p>Inside the box:</p>
+      <ul>
+        <li>Patisapta (4 pcs)</li>
+        <li>Vapa Pithe (4 pcs)</li>
+        <li>Dudh Puli (4 pcs)</li>
+        <li>A small surprise</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Delivery Details -->
+  <section>
+    <h2>Delivery Details</h2>
+    <ul>
+      <li>Delivery across Bangalore</li>
+      <li>2–3 days delivery</li>
+      <li>Free delivery within 10km of Marathahalli</li>
+      <li>Advance payment, No COD</li>
+      <li>No customization</li>
+    </ul>
+  </section>
+
+  <!-- How to Order -->
+  <section>
+    <h2>How to Order</h2>
+    <ul>
+      <li>Message us on WhatsApp or Instagram</li>
+      <li>Make payment and share details</li>
+      <li>We prepare it fresh and deliver</li>
+    </ul>
+  </section>
+
+  <!-- Connect With Us -->
+  <section>
+    <h2>Connect With Us</h2>
+    <p>Have a question or just want to say hello?<br>
+    We’d love to hear from you.</p>
+  </section>
+
+  <!-- Footer -->
+  <section class="footer">
+    <p>From our home,<br>to yours.</p>
+  </section>
+
+</body>
+</html>
 
